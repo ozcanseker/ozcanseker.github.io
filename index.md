@@ -9,7 +9,7 @@ Stands for Social linked data. An application can use a Solid pod to save app da
   
 ### Proof of concept for a solid application
 Allows you to count the beers you drink everyday. 
-  - [Website]((https://ozcanseker.github.io/Solid-Pod-beer-counter/))
+  - [Website](https://ozcanseker.github.io/Solid-Pod-beer-counter/)
   - [Source code](https://github.com/ozcanseker/Solid-Pod-beer-counter)
 
 
