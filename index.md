@@ -1,9 +1,20 @@
 # Projects of Özcan Seker
 
 ## Index
-1. [Internship Applications](#internship-applications)
-1. [Solid (Linked data)](#solid-linked-data)
+1. [Minor Data science](#minor-data-science)
+    1. [Sumo blog](#sumo-blog)  
+1. [Internship Applications](#internship-applications)  
+    1. [Brt Namen zoeker](#brt-namen-zoeker)
+    1. [Verkaufsbücher Namen zoeker](#verkaufsbcher)
+    1. [Solid (Linked data)](#solid-linked-data)
 
+## Minor Data science  
+Things I did during my minor:  
+  
+### Sumo blog  
+A small blog post about a Sumo wrestler dataset. Made with R.  
+  - [Blog](https://ozcanseker.github.io/sumoblog/)  
+  
 ## Internship Applications
 I did my internship at Kadaster. A lot of data sets of Kadaster datasets are available as Linked data. I made two applications
 that work with two different datasets.
