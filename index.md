@@ -5,7 +5,7 @@
     1. [Sumo blog](#sumo-blog)  
 1. [Internship Applications](#internship-applications)  
     1. [Brt Namen zoeker](#brt-namen-zoeker)
-    1. [Verkaufsbücher Namen zoeker](#verkaufsbcher)
+    1. [Verkaufsbücher Namen zoeker](#verkaufsbücher)
     1. [Solid (Linked data)](#solid-linked-data)
 
 ## Minor Data science  
