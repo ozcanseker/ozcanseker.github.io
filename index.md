@@ -1,12 +1,17 @@
 # Projects of Özcan Seker
 
 ## Index
+1. [HMI](#hmi)
 1. [Minor Data science](#minor-data-science)
     1. [Sumo blog](#sumo-blog)  
 1. [Internship Applications](#internship-applications)  
     1. [Brt Namen zoeker](#brt-namen-zoeker)
     1. [Verkaufsbücher Namen zoeker](#verkaufsbücher)
     1. [Solid (Linked data)](#solid-linked-data)
+
+## HMI  
+Small website I made for my HMI specialization  
+- [Website](https://ozcanseker.github.io/jam-store)
 
 ## Minor Data science  
 Things I did during my minor:  
